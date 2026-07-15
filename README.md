@@ -76,7 +76,7 @@ projected lending losses by $X,XXX vs the default 0.50 cutoff.
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/loanshield-fraud-detection
+git clone https://github.com/PrajwalKapnoor/loanshield-fraud-detection
 cd loanshield-fraud-detection
 pip install -r requirements.txt
 ```
